@@ -2,7 +2,7 @@
 
 Installation:
 
-1. Kindly import 'stock_management_sql' file into your mysql database.
+Kindly import 'stock_management_sql' file into your mysql database.
 
 If you're using VSCode.
 1. Download PHP Server Extension
